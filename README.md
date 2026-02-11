@@ -18,4 +18,5 @@ Welcome to my portfolio. Here is how my work is organized:
 * **[Python Experiments](LINK_TO_OTHER_REPO)** - Small scripts and learning exercises.
 
 ---
-*Connect with me on [LinkedIn](www.linkedin.com/in/muhammad-sulaiman-904304366)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sulaiman-904304366)*
+
