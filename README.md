@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Sulaiman! 👋
+### Data Analyst | Excel | Python | Student @ CUI Abbottabad
 
-<!--
-**muhammadsulaimandata/muhammadsulaimandata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio. Here is how my work is organized:
 
-Here are some ideas to get you started:
+## 📂 Professional Projects
+*These are complete, production-ready applications.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Compound Investment Calculator](https://github.com/muhammadsulaimandata/Compound-Investment-Calculator)** | A GUI-based financial tool for calculating simple & compound interest. | 🐍 Python, Tkinter |
+| **[HostelWala (Coming Soon)](https://github.com/muhammadsulaimandata/HostelWala)** | A platform for students to find hostel accommodations. | 🌐 Web, Python |
+
+## 🧪 Practice & Kaggle Work
+*Raw code, data analysis experiments, and learning exercises.*
+
+* **[Kaggle Notebooks](LINK_TO_YOUR_KAGGLE)** - My data analysis practice on real-world datasets.
+* **[Python Experiments](LINK_TO_OTHER_REPO)** - Small scripts and learning exercises.
+
+---
+*Connect with me on [LinkedIn](YOUR_LINKEDIN_LINK)*
