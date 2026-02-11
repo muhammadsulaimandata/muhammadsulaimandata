@@ -14,8 +14,8 @@ Welcome to my portfolio. Here is how my work is organized:
 ## 🧪 Practice & Kaggle Work
 *Raw code, data analysis experiments, and learning exercises.*
 
-* **[Kaggle Notebooks](LINK_TO_YOUR_KAGGLE)** - My data analysis practice on real-world datasets.
+* **[Kaggle Notebooks](https://www.kaggle.com/muhammadsulaimandata)** - My data analysis practice on real-world datasets.
 * **[Python Experiments](LINK_TO_OTHER_REPO)** - Small scripts and learning exercises.
 
 ---
-*Connect with me on [LinkedIn](YOUR_LINKEDIN_LINK)*
+*Connect with me on [LinkedIn](www.linkedin.com/in/muhammad-sulaiman-904304366)*
