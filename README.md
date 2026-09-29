@@ -1,5 +1,5 @@
 # Hi there, I'm Muhammad Sulaiman! 👋
-### Data Analyst | Excel | Python | Student @ CUI Abbottabad
+### Data Analyst | Python | Power BI & Tableau | Machine Learning | Data Visulization | Student @ CUI Abbottabad
 
 Welcome to my portfolio. Here is how my work is organized:
 
@@ -16,9 +16,10 @@ Welcome to my portfolio. Here is how my work is organized:
 
 
 
-## Kaggle
+## My Work
 
-* **[Kaggle Notebooks](https://www.kaggle.com/muhammadsulaimandata)** 
+* **[Tableau Public](https://public.tableau.com/app/profile/muhammad.sulaiman6145/vizzes)** 
+* **[Kaggle](https://www.kaggle.com/muhammadsulaimandata)** 
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sulaiman-analytics)*
