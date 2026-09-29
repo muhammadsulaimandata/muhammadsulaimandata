@@ -3,7 +3,7 @@
 
 Welcome to my portfolio. Here is how my work is organized:
 
-## 📂 Professional Projects
+## 📂 Projects
 *These are complete university academic and personal interest projects.*
 
 | Project | Description | Tech Stack |
