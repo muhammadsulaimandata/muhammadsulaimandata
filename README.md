@@ -4,19 +4,20 @@
 Welcome to my portfolio. Here is how my work is organized:
 
 ## 📂 Professional Projects
-*These are complete, production-ready applications.*
+*These are complete university academic and personal interest projects.*
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Compound Investment Calculator](https://github.com/muhammadsulaimandata/Compound-Investment-Calculator)** | A GUI-based financial tool for calculating simple & compound interest. | 🐍 Python, Tkinter |
-| **[HostelWala (Coming Soon)](https://github.com/muhammadsulaimandata/HostelWala)** | A platform for students to find hostel accommodations. | 🌐 Web, Python |
+| **[Car Price Prediction using Machine Learning](https://github.com/muhammadsulaimandata/Car-Price-Prediction-using-Machine-Learning.git)** | Web application that predicts car price based on usage, company, based price, fuel type. | Python, Pandas, NUMPY, CSS, HTML, Scikit Learn, Linear Regression, PyCharm |
+| **[Compound Investment Calculator](https://github.com/muhammadsulaimandata/Compound-Investment-Calculator)** | A GUI-based financial tool for calculating simple & compound interest. | Python, NUMPY, Tkinter |
+| **[Olympics Data Analysis and Visualization ](https://github.com/muhammadsulaimandata/Olympics-Data-Analysis-and-Visualization.git)** | A web application that shows analysis of Olympics data from 1895 to 2024. | Python, Pandas, NUMPY, Streamlit, PyCharm |
 
-## 🧪 Practice & Kaggle Work
+
+## 🧪 Practice Work
 *Raw code, data analysis experiments, and learning exercises.*
 
 * **[Kaggle Notebooks](https://www.kaggle.com/muhammadsulaimandata)** - My data analysis practice on real-world datasets.
-* **[Python Experiments](LINK_TO_OTHER_REPO)** - Small scripts and learning exercises.
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sulaiman-904304366)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sulaiman-analytics)*
 
