@@ -13,10 +13,9 @@ Welcome to my portfolio. Here is how my work is organized:
 | **[Olympics Data Analysis and Visualization ](https://github.com/muhammadsulaimandata/Olympics-Data-Analysis-and-Visualization.git)** | A web application that shows analysis of Olympics data from 1895 to 2024. | Python, Pandas, NUMPY, Streamlit, PyCharm |
 
 
-## 🧪 Practice Work
-*Raw code, data analysis experiments, and learning exercises.*
+## Kaggle
 
-* **[Kaggle Notebooks](https://www.kaggle.com/muhammadsulaimandata)** - My data analysis practice on real-world datasets.
+* **[Kaggle Notebooks](https://www.kaggle.com/muhammadsulaimandata)** 
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sulaiman-analytics)*
